@@ -28,7 +28,7 @@
 }
 body {
   margin: 0px;
-  background-image: 01.jpg;
+  background-image: url('01.jpg');
   background-size: cover;
   background-repeat: no-repeat, no-repeat;
   background-position: top;
