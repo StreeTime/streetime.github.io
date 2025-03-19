@@ -1,7 +1,7 @@
 /* global settings */
 :root {
-    --primary: rgba(255, 221, 110, 0.842);
-    --backCol: rgb(34, 34, 34);
+    --primary: black;
+    --backCol: rgb(234, 234, 234);
     --fontage: "Lucida Console", Courier, monospace;
 }
 
