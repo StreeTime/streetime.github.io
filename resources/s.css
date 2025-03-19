@@ -8,7 +8,7 @@
 /*screen size specific settings landscape */
 @media only screen and (max-height: 800px){
   :root {
-    --action-width: 60vw;
+    --action-width: 400px;
     --background: url('./01.jpg');
     --actionTopPad: 43vh;
     --actionLeftPad: 100px;
